@@ -43,3 +43,17 @@ title()	Converts the first character of each word to upper case
 translate()	Returns a translated string
 upper()	Converts a string into upper case
 zfill()	Fills the string with a specified number of 0 values at the beginning
+
+
+
+
+
+\'	Single Quote	
+\\	Backslash	
+\n	New Line	
+\r	Carriage Return	: breals the string and prints it in new line 
+\t	Tab	
+\b	Backspace	
+\f	Form Feed	
+\ooo	Octal value	
+\xhh	Hex value
